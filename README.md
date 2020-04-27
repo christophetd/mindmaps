@@ -3,11 +3,11 @@
 This repository contains a few personal mindmaps I use as a reference for threat hunting and incident response. It is currently highly WIP. 
 
 - [Windows Event Logs](./pdf/windows-basic-event-logs.pdf)
+- [Memory Hunting with Volatility](./pdf/memory-hunting.pdf)
 
 ## Work in progress
 
 - Hunting for common lateral movement mechanisms
-- Volatility modules
 - Evidence of execution (prefetch files, Amcache...)
 - Methods of credentials theft and associated protections
 
