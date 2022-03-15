@@ -1,15 +1,10 @@
-# Threat hunting mindmaps
+# Mindmaps
 
-This repository contains a few personal mindmaps I use as a reference for threat hunting and incident response. It is currently highly WIP. 
+This repository contains a few personal mindmaps I use as a reference for cloud security, threat hunting and incident response.
 
+- [AWS Cloud Security 101](./pdf/aws-cloud-security-101.pdf) - most common AWS security incidents and how to avoid them
 - [Windows Event Logs](./pdf/windows-basic-event-logs.pdf)
 - [Memory Hunting with Volatility](./pdf/memory-hunting.pdf)
-
-## Work in progress
-
-- Hunting for common lateral movement mechanisms
-- Evidence of execution (prefetch files, Amcache...)
-- Methods of credentials theft and associated protections
 
 ## Disclaimer
 
